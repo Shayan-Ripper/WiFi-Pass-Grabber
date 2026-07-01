@@ -36,4 +36,4 @@ This script extracts all saved WiFi profiles from your Windows system and sends 
 
 برای مشاهده‌ی آموزش کامل ساخت و تنظیمات این دستگاه، به کانال تلگرام ما بپیوندید:
 
-👉t.me/ripper_sec
+👉https://t.me/ripper_sec
